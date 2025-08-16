@@ -1,1 +1,15 @@
-The Parliament Management System is a streamlined application built with Python Streamlit for the frontend and MySQL for the backend. It manages parliamentary data such as members, sessions, bills, and committees with efficient relational schemas and SQL queries. The system provides an interactive interface to track sessions, manage bills, and view member details, ensuring organized and accessible operations. By combining a user-friendly UI with a robust database, the project enhances efficiency, transparency, and ease of parliamentary management.
+# 🏛️ Parliament Management System
+
+The **Parliament Management System** is a Python + SQL application built with **Streamlit** and **MySQL** to streamline and organize parliamentary operations. It provides an interactive interface for managing members, sessions, bills, and committees with efficient data handling and visualization.
+
+## 🚀 Features
+- Manage parliamentary members and their details  
+- Schedule and track parliamentary sessions  
+- Add and monitor bills and committees  
+- Interactive Streamlit UI for real-time access  
+- MySQL backend for reliable data storage  
+
+## 🛠️ Tech Stack
+- **Frontend:** Python (Streamlit)  
+- **Backend:** MySQL  
+- **Language:** SQL, Python  
